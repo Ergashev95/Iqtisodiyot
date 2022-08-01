@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'Inter';
+  src: url(../fonts/Inter/Inter-Black.ttf);
+  font-weight: 900;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url(../fonts/Inter/Inter-Bold.ttf);
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url(../fonts/Inter/Inter-SemiBold.ttf);
+  font-weight: 600;
+  
+}
+@font-face {
+  font-family: 'Inter';
+  src: url(../fonts/Inter/Inter-Medium.ttf);
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url(../fonts/Inter/Inter-Regular.ttf);
+  font-style: italic;
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url(../fonts/Inter/Inter-Light.ttf);
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'EB Garamond';
+  src: url(../fonts/EB_Garamond/EBGaramond-Bold.ttf);
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'EB Garamond';
+  src: url(../fonts/EB_Garamond/EBGaramond-Regular.ttf);
+  font-weight: 400;
+}
